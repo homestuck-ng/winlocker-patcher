@@ -67,9 +67,9 @@
             this.wellcome.Location = new System.Drawing.Point(15, 21);
             this.wellcome.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.wellcome.Name = "wellcome";
-            this.wellcome.Size = new System.Drawing.Size(643, 40);
+            this.wellcome.Size = new System.Drawing.Size(633, 40);
             this.wellcome.TabIndex = 1;
-            this.wellcome.Text = "Wellcome to winlocker patcher by dk";
+            this.wellcome.Text = "Welcome to winlocker patcher by dk";
             // 
             // textBoxTitle
             // 
