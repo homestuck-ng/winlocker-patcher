@@ -11,6 +11,7 @@ namespace WinlockerPatcher
         {
             InitializeComponent();
         }
+
         private bool ValidateRequired(Control control, string fieldName)
         {
             string value = null;
@@ -73,8 +74,9 @@ namespace WinlockerPatcher
 
             try
             {
-                var module = ModuleDefMD.Load("stub.exe");
+                byte[] stubBytes = Properties.Resources.stub;
 
+                var module = ModuleDefMD.Load(stubBytes);
                 foreach (var type in module.GetTypes())
                     foreach (var method in type.Methods)
                     {
