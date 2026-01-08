@@ -52,7 +52,7 @@ All replacements are done using direct string comparison.
 - dnlib (installed via NuGet)
 
 ## Project Structure
-
+```
 WinlockerPatcher/
 ├── Form1.cs
 ├── Form2.cs
@@ -61,7 +61,7 @@ WinlockerPatcher/
 │ └── Resources.Designer.cs
 ├── WinlockerPatcher.csproj
 └── README.md
-
+```
 
 The stub executable is embedded in `Resources.resx` as a binary resource.
 
