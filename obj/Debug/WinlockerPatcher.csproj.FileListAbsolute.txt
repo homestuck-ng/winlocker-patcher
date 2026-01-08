@@ -1,0 +1,14 @@
+C:\Users\Bolbes\source\repos\WinlockerPatcher\bin\Debug\WinlockerPatcher.exe.config
+C:\Users\Bolbes\source\repos\WinlockerPatcher\bin\Debug\WinlockerPatcher.exe
+C:\Users\Bolbes\source\repos\WinlockerPatcher\bin\Debug\WinlockerPatcher.pdb
+C:\Users\Bolbes\source\repos\WinlockerPatcher\obj\Debug\WinlockerPatcher.csproj.AssemblyReference.cache
+C:\Users\Bolbes\source\repos\WinlockerPatcher\obj\Debug\WinlockerPatcher.Form1.resources
+C:\Users\Bolbes\source\repos\WinlockerPatcher\obj\Debug\WinlockerPatcher.Properties.Resources.resources
+C:\Users\Bolbes\source\repos\WinlockerPatcher\obj\Debug\WinlockerPatcher.csproj.GenerateResource.cache
+C:\Users\Bolbes\source\repos\WinlockerPatcher\obj\Debug\WinlockerPatcher.csproj.CoreCompileInputs.cache
+C:\Users\Bolbes\source\repos\WinlockerPatcher\obj\Debug\WinlockerPatcher.exe
+C:\Users\Bolbes\source\repos\WinlockerPatcher\obj\Debug\WinlockerPatcher.pdb
+C:\Users\Bolbes\source\repos\WinlockerPatcher\bin\Debug\dnlib.dll
+C:\Users\Bolbes\source\repos\WinlockerPatcher\bin\Debug\dnlib.xml
+C:\Users\Bolbes\source\repos\WinlockerPatcher\obj\Debug\Winlocke.8CCF7C6C.Up2Date
+C:\Users\Bolbes\source\repos\WinlockerPatcher\obj\Debug\WinlockerPatcher.Form2.resources
